@@ -30,7 +30,7 @@ Pre-Alpha
 * Implement [NIP-01](https://github.com/nostr-protocol/nips/blob/master/01.md)
 
 ## License
-Copyright (C) 2020  Akito <the@akito.ooo>
+Copyright (C) 2023  Akito <the@akito.ooo>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

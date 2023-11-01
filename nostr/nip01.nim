@@ -28,13 +28,5 @@ import
     random,
     sugar,
     threadpool
-  ],
-  pkg/[
-    puppy,
-    zero_functional,
-    nimdbx,
-    timestamp,
-    schedules,
-    jester
   ]
 

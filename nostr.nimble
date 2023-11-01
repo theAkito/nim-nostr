@@ -10,7 +10,12 @@ skipFiles     = @["README.md"]
 
 # Dependencies
 
-requires "nim >= 2.0.0"
+requires "nim             >= 2.0.0"
+requires "puppy           >= 1.0.3"
+requires "timestamp       >= 0.4.2"
+requires "timezones       >= 0.5.4"
+requires "zero_functional >= 1.3.0"
+requires "yaml#189844a72b90ba7ade864f997280809efcb21d0a"
 
 
 # Tasks
