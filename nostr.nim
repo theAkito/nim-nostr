@@ -1,5 +1,5 @@
 #[
-  NimPackage: A new awesome Nim library.
+  NOSTR Protocol implementation in Nim.
 ]#
 
 when isMainModule:

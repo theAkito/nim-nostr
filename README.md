@@ -1,4 +1,4 @@
-[![nimble](https://raw.githubusercontent.com/yglukhov/nimble-tag/master/nimble.png)](https://nimble.directory/pkg/nimpackage)
+[![nimble](https://raw.githubusercontent.com/yglukhov/nimble-tag/master/nimble.png)](https://nimble.directory/pkg/nostr)
 
 [![Language](https://img.shields.io/badge/language-Nim-orange.svg?style=plastic)](https://nim-lang.org/)
 
@@ -6,25 +6,28 @@
 [![Liberapay patrons](https://img.shields.io/liberapay/patrons/Akito?style=plastic)](https://liberapay.com/Akito/)
 
 ## What
-This is a base template for App projects written in Nim.
+[NOSTR](https://nostr.com/) Protocol implementation in Nim.
 
 ## Why
-Allows kickstarting new projects, without fiddling around with metadata basics.
+To be able to extend Nostr with tools written in Nim.
 
 ## How
-Select this is a template, when creating a new Git repository through a Git WebUI
+```bash
+nimble install nostr
+```
 
 ## Where
-Git.
+Anywhere, where Nim feels welcome.
 
 ## Goals
-* Performance
+* Reliability
+* High NIP Availability
 
 ## Project Status
-Stable
+Pre-Alpha
 
 ## TODO
-* Always improve
+* Implement [NIP-01](https://github.com/nostr-protocol/nips/blob/master/01.md)
 
 ## License
 Copyright (C) 2020  Akito <the@akito.ooo>
