@@ -8,7 +8,7 @@ import
   # meta,
   # database,
   # model/[
-  #   steam
+  #   nip01
   # ],
   std/[
     algorithm,
