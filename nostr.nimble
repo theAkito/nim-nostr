@@ -16,6 +16,7 @@ requires "timestamp       >= 0.4.2"
 requires "timezones       >= 0.5.4"
 requires "zero_functional >= 1.3.0"
 requires "yaml#189844a72b90ba7ade864f997280809efcb21d0a"
+requires "nimSHA2"
 
 
 # Tasks
